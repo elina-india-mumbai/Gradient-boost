@@ -1,6 +1,6 @@
 # Gradient-boost
 To predict solar GHI/DHI/DNI using boosing algortihm
-It is a  time-series  and I used gradient boost algorithm at first before applyying deepn neural network.
+It is a  time-series  and I used gradient boost algorithm at first before applyying deep neural network.
 XGBoost algorithm has the advantage that :
 1.It is Highly Flexible.
 2. It uses the power of parallel processing.
